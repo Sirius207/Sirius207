@@ -6,7 +6,7 @@
 
 🎓 &nbsp; Graduated from NCKU with a master degree in Medical Informatics.<br>
 🎤 &nbsp; SITCON Speaker in [2020](https://www.youtube.com/watch?v=UkBb2xDTcrk)<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" width="18" height="18" /> Python Crawler and Data Visualization [Lecturer](https://aigp.ncku.edu.tw/p/412-1181-25698.php?Lang=zh-tw)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" width="18" height="18" /> &nbsp;Python Crawler and Data Visualization [Lecturer](https://aigp.ncku.edu.tw/p/412-1181-25698.php?Lang=zh-tw)
 
 
 - <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?raw=true" width="18" height="18" /> [LinkedIn](https://www.linkedin.com/in/pochunlu/)
